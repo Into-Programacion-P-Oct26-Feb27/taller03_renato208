@@ -21,7 +21,7 @@ public class Ejercicio06 {
         double var4 = Math.pow(7, 2);
         int var5 = 50;
         
-        boolean resultado = (var1/var2 == var3) && (var4 > var5);
+        boolean resultado = (var1 / var2 == var3) && (var4 > var5);
         
         System.out.println(resultado);
         
