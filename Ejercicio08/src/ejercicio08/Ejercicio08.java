@@ -25,7 +25,7 @@ public class Ejercicio08 {
         int var8 = 3;
         int var9 = 30;
         
-        boolean resultado = ((var1 + var2)/var3 + var4 >= var5) && (var6 - var7 * var8 < var9);
+        boolean resultado = ((var1 + var2) / var3 + var4 >= var5) && (var6 - var7 * var8 < var9);
 
         System.out.println(resultado);
         
